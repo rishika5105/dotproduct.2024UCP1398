@@ -1,4 +1,4 @@
-#input two vectors with space separated components
+
 v1= input("Enter first vector: ").split()
 v2= input("Enter second vector: ").split()
 
@@ -30,4 +30,5 @@ for i in range(len(v1)):
 print("Dot product:", dot_product)
 
 print("hello from both branches")
+print("siddhi changes")
 
